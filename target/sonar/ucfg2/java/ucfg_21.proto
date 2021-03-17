@@ -1,0 +1,33 @@
+
+°com.infosys.FA4group6.Order.OrderApplication#restTemplate(Lorg/springframework/boot/web/client/RestTemplateBuilder;)Lorg/springframework/web/client/RestTemplate;f
+\C:/Users/sam95/Desktop/Sonar/src/main/java/com/infosys/FA4group6/Order/OrderApplication.java ($"startingBlock*ª
+startingBlockf
+\C:/Users/sam95/Desktop/Sonar/src/main/java/com/infosys/FA4group6/Order/OrderApplication.java$ (AÙ
+Ò
+f
+\C:/Users/sam95/Desktop/Sonar/src/main/java/com/infosys/FA4group6/Order/OrderApplication.java (	
+%1"
+__annotate*/-
++org.springframework.context.annotation.Bean*D
+B
+builder7org.springframework.boot.web.client.RestTemplateBuilder≈
+¬
+f
+\C:/Users/sam95/Desktop/Sonar/src/main/java/com/infosys/FA4group6/Order/OrderApplication.java9 (@B
+builder7org.springframework.boot.web.client.RestTemplateBuilder"__annotation*
+
+%1*
+1*È
+1f
+\C:/Users/sam95/Desktop/Sonar/src/main/java/com/infosys/FA4group6/Order/OrderApplication.java (€ÿ
+f
+\C:/Users/sam95/Desktop/Sonar/src/main/java/com/infosys/FA4group6/Order/OrderApplication.java (1
+%0+org.springframework.web.client.RestTemplate"lorg.springframework.boot.web.client.RestTemplateBuilder#build()Lorg/springframework/web/client/RestTemplate;*D
+B
+builder7org.springframework.boot.web.client.RestTemplateBuilder2build()"ù
+f
+\C:/Users/sam95/Desktop/Sonar/src/main/java/com/infosys/FA4group6/Order/OrderApplication.java (3
+1
+%0+org.springframework.web.client.RestTemplate:B
+builder7org.springframework.boot.web.client.RestTemplateBuilderB0.
+,com.infosys.FA4group6.Order.OrderApplication

@@ -1,0 +1,7 @@
+organization=sumit-upadhyaya07
+projectKey=com.infosys.FA4group6.Order:OrderMS
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.18256
+dashboardUrl=https://sonarcloud.io/dashboard?id=com.infosys.FA4group6.Order%3AOrderMS
+ceTaskId=AXhBMvwZs15alfsZ5Edf
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXhBMvwZs15alfsZ5Edf
